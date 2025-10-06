@@ -4,6 +4,7 @@ A modern, fully responsive landing page for Omnifood - an AI-powered food subscr
 
 Link of the website: https://omnifood-sa3a.netlify.app/
 
+
 ![Omnifood Preview](img/Omnifood-Logo1.png)
 
 ## ✨ Features
