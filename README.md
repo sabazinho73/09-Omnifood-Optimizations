@@ -2,7 +2,7 @@
 
 A modern, fully responsive landing page for Omnifood - an AI-powered food subscription service that delivers healthy meals 365 days a year.
 
-Link of the website: https://app.netlify.com/projects/omnifood-sa3a/overview
+Link of the website: https://omnifood-sa3a.netlify.app/
 
 ![Omnifood Preview](img/Omnifood-Logo1.png)
 
