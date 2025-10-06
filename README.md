@@ -2,7 +2,7 @@
 
 A modern, fully responsive landing page for Omnifood - an AI-powered food subscription service that delivers healthy meals 365 days a year.
 
-![Omnifood Preview](img/hero.png)
+![Omnifood Preview](img/Omnifood-Logo1.png)
 
 ## ✨ Features
 
